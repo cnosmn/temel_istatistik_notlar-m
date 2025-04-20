@@ -19,7 +19,6 @@ This repository contains a Jupyter notebook for statistical analysis and probabi
   - [Usage](#usage)
   - [Statistical Concepts Covered](#statistical-concepts-covered)
   - [Libraries Used](#libraries-used)
-  - [License](#license)
 
 ## Features
 
@@ -86,10 +85,6 @@ The notebook covers the following statistical concepts:
 - `scipy.stats`: For statistical functions and probability distributions
 - `statsmodels`: For advanced statistical modeling
 - `researchpy`: For simplified statistical analysis
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
